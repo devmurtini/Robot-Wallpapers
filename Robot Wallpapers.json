@@ -1,5 +1,5 @@
 {
-	"Adsx": [
+	"Ads": [
 		{
 			"select_main_ads": "ADMOB",
 			"select_backup_ads": "APPLOVIN-M",
@@ -34,14 +34,14 @@
 			"link": "link"
 		}
 	],
-	"Categoriesx": [
+	"Categories": [
 		{
 			"id": 1,
 			"name_category": "image",
 			"image": "https://i.pinimg.com/564x/9f/f1/41/9ff1411c42e3a30c1be0b199a9990af6.jpg"
 		}
 	],
-	"Datax": [
+	"Data": [
 		{
 			"id": 1,
 			"name_category": "image",
